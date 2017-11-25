@@ -1,5 +1,4 @@
-Gasses are compressable; solids are not.
-Gases have a high kinetic energy.
+Gases are compressible; solids are not. Gases have a high kinetic energy.
 
 ---
 ### Gas Laws
@@ -29,7 +28,7 @@ Inclusion of state
 >W = Work
 
 `W = F*s`
->s = distnace
+>s = distance
 
 `P = F/A`
 >A = area
@@ -39,7 +38,7 @@ Inclusion of state
 
 `W = P*A*S` = `P*A*∆S`
 ∴ `W = PV`
->V: because A*S = _volume_
+>V ∵ A*S = volume
 
 any `W = P∆V`
 
